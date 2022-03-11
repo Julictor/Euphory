@@ -8,7 +8,7 @@ https://julictor.github.io/Euphory/
 <body>
 
 <h1>Bem vindo ao nosso site</h1>
-<p>Nesse site veremos como a Julia é surtada.</p>
+<p>.Nesse site veremos como a Julia é surtada.</p>
 
 </body>
 </html>
