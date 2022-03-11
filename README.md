@@ -7,8 +7,8 @@ https://julictor.github.io/Euphory/
 </head>
 <body>
 
-<h1>Bem vindo ao nosso site</h1>
-<p>.Nesse site veremos como a Julia é surtada.</p>
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
 
 </body>
 </html>
