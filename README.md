@@ -7,8 +7,8 @@ https://julictor.github.io/Euphory/
 </head>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>Bem Vinde</h1>
+<p>any pronouns.</p>
 
 </body>
 </html>
