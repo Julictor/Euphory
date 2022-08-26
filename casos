@@ -52,20 +52,13 @@
 
   </nav>
   <div class="mt-4 p-5 bg-secondary text-red rounded"> 
-    <h1 class=text-danger>JANE DOE</h1> <span class="badge bg-danger">CASO</span> 
-    <p>SUISH</p> 
-    <button type="button" class="btn btn-dark btn-lg float-end">Veja mais</button>
+    <img src="https://d5y9g7a5.rocketcdn.me/wp-content/uploads/2021/04/dalia-negra-a-historia-do-homicidio-que-chocou-os-eua-nos-anos-40-960x640.jpg" class="mx-auto d-block" style="width:50%"> 
+    <h1 class=text-danger>Dália Negra:A morte brutal de Elizabeth Short <span class="badge bg-danger">CASO</span> </h1>
+    <h5>Uma jovem atriz com um fim tenebroso.</h5> 
+    <p>
+      
+    </p>
+    
   </div>
-  <div class="mt-4 p-5 bg-secondary text-red rounded"> 
-  <h1 class=text-danger>JERMA</h1> <span class="badge bg-danger">SERIAL KILLER</span>
-  <p>SUISH</p> 
-  <button type="button" class="btn btn-dark btn-lg float-end">Veja mais</button>
-</div>
-<div class="mt-4 p-5 bg-secondary text-red rounded">
-    <h1 class=text-danger>GASPARZINHO</h1> <span class="badge bg-danger">SOBRENATURAL</span>
-    <p>SUISH</p> 
-    <button type="button" class="btn btn-dark btn-lg float-end">Veja mais</button>
-  </div>
-</div>
-</div> 
+  
 </body>
