@@ -52,12 +52,35 @@
 
   </nav>
   <div class="mt-4 p-5 bg-secondary text-red rounded"> 
-    <img src="https://d5y9g7a5.rocketcdn.me/wp-content/uploads/2021/04/dalia-negra-a-historia-do-homicidio-que-chocou-os-eua-nos-anos-40-960x640.jpg" class="mx-auto d-block" style="width:50%"> 
+    <img src="https://img3.stockfresh.com/files/k/krasimiranevenova/m/59/6491437_stock-photo-follow-the-guidelines-concept.jpg" class="mx-auto d-block" style="width:50%"> 
     <h1 class=text-danger>GUIDELINES</h1>
     <h5>Regras básicas do site.</h5> 
-    <p>
-        
-    </p>
+    <table class="table table-dark table-striped">
+        <thead>
+          <tr>
+            <th>Crime</th>
+            <th>Punição</th>
+            <th>Se persistir</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td></td>
+            <td>Doe</td>
+            <td>john@example.com</td>
+          </tr>
+          <tr>
+            <td>Mary</td>
+            <td>Moe</td>
+            <td>mary@example.com</td>
+          </tr>
+          <tr>
+            <td>July</td>
+            <td>Dooley</td>
+            <td>july@example.com</td>
+          </tr>
+        </tbody>
+      </table>
     
   </div>
   
